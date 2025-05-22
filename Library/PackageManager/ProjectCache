@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638834686126534324
-    m_Hash: 2816913809
+      ticks: 638834736664693921
+    m_Hash: 433292074
   m_LockFileStatus:
     m_FilePath: C:/Users/ju4np/OneDrive/Documentos/GitHub/utn-2c-2025/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638834686126554813
-    m_Hash: 132222680
+      ticks: 638834736664693921
+    m_Hash: 726659784
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
